@@ -1,6 +1,6 @@
 # Nullish Coalescing Operator is sometimes informally referred to as the "Elvis Operator"
 
-It seems like there might be a confusion in terminology. The "Elvis Operator" is not a standard term in JavaScript. However, there is a similar concept known as the "nullish coalescing operator," which is sometimes informally referred to as the "Elvis operator" due to its resemblance to the eyes and hair of Elvis Presley.
+It seems like there might be a confusion in terminology. The "Elvis Operator" is not a standard term in JavaScript. However, there is a similar concept known as the "nullish coalescing operator," which is sometimes informally referred to as the "Elvis Operator" due to its resemblance to the eyes and hair of Elvis Presley.
 
 The nullish coalescing operator (??) is used to provide a default value for a variable if its current value is **`null`** or **`undefined`**. It is a shorthand way of writing a conditional statement.
 
